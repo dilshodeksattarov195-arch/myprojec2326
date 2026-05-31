@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productvetch",
+        "uuid": 541958,
+        "checksum": "yqfqwi"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
